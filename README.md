@@ -1,16 +1,33 @@
-## Hi there 👋
+# Привет! Я [Имя Фамилия] 👋
 
-<!--
-**iovn111/iovn111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Начинающий **системный аналитик**. Учусь на направлении «Бизнес-информатика» в НИУ ВШЭ (Пермь).
 
-Here are some ideas to get you started:
+Мне интересно проектирование информационных систем: как перевести бизнес-задачу в понятные требования, описать процессы и определить логику работы приложения. Опыт программирования помогает мне понимать техническую сторону задач и ограничения реализации.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔎 **Ищу первую работу или стажировку в системном анализе.**
+
+---
+
+### 🛠 Навыки
+
+**Анализ и проектирование:** BPMN, UML, Use Case, User Story, технические задания и спецификации требований
+**Интеграции и данные:** SQL, REST API, HTTP, JSON, XML
+**Инструменты:** Draw.io, PlantUML, Git, Jupyter Notebook
+**Программирование:** Python (pandas, scikit-learn), C# (.NET, MSTest)
+
+---
+
+### 📂 Проекты
+
+| Проект | О чём | Стек |
+|---|---|---|
+| [Прогноз спроса на велопрокат](https://github.com/iovn111/ML-laboratory-works) | Проверка качества данных, прогноз числа аренд на следующий день и классификация дней высокого спроса. RMSE на 5,2% ниже базового прогноза | Python, pandas, scikit-learn |
+| [Объектная модель и структуры данных на C#](https://github.com/iovn111/lab_12) | Иерархия классов, диаграмма классов, собственные связный список и хеш-таблица, 28 модульных тестов | C#, .NET, MSTest |
+
+---
+
+### 📫 Контакты
+
+- Email: [ichocoladca@yandex.ru](mailto:ichocoladca@yandex.ru)
+- Telegram: [@iovn111](https://t.me/iovn111)
+- Резюме: [ссылка на hh.ru](https://perm.hh.ru/resume/54ef4769ff10df181e0039ed1f5876626d666b)
